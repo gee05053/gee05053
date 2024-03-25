@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/gee05053@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-👋 Hi there! I'm <b>Junior Frontend engineer</b> using React.  
+👋 Hi there! I'm <b>Junior Frontend developer</b> using React, NextJs, Javascript.  
 I also have an interest in E2E testing.🚀  
 I have a strong passion for the products I develop and focus on user convenience.✨  
 My goal is to experience development in various fields including frontend, backend, and fieldOps, and to lead a frontend team🥳
