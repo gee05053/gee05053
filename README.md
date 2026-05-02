@@ -11,7 +11,7 @@ I'm passionate about delivering great user experiences through clean architectur
 
 
 ## 💻 Works
-Frontend Developer Creatornomic inc. <sub><sup>(24.04 ~ ing)</sup></sub> <br/>
+Frontend Developer Creatornomic inc. <sub><sup>(24.04 ~ 26.04)</sup></sub> <br/>
 Frontend Developer Lableup inc. <sub><sup>(23.11 ~ 24.02)</sup></sub>
 
 ## 🛠️ Skills
